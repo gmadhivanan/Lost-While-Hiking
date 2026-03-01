@@ -1,4 +1,6 @@
 # Lost-While-Hiking
+![https://www.artstation.com/artwork/Jeo8AR](https://cdnb.artstation.com/p/assets/images/images/058/600/873/large/michalina-slemp-stalker-cut-8.jpg?1674553384)
+
 [Game](https://editor.p5js.org/gmadhivanan/full/TrmMwUgm4)
 ## Background
 I wanted to make an interactive experience that had some horror elements. I'm a big fan of Cosmic/Lovecraftian Horror and wanted to work some elements from that into this. I figured a simple premise would be getting lost in the woods while something is chasing you.
